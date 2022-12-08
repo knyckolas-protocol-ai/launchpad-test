@@ -23,6 +23,8 @@ On the Filecoin network, users pay in Filecoin tokens to store their files with 
 
 Available storage and the price of that storage is not controlled by any single company. Instead, the Filecoin network facilitates open markets for storing and retrieving files (by making storage deals between clients and providers) that anyone can participate in. At any time, users can verify that their files are being stored correctly by looking at proofs on Filecoin’s blockchain.
 
+I also like cows!
+
 
 
 ## Learning Objectives
